@@ -225,7 +225,7 @@ msg+=`- ${p.name} (${p.opcion}) x${p.qty} → ${format(sub)}\n`;
 
 msg+=`\nTotal: ${format(total)}`;
 
-window.open(`https://wa.me/573239618378?text=${encodeURIComponent(msg)}`);
+window.open(`https://wa.me/573014354201?text=${encodeURIComponent(msg)}`);
 };
 
 });
